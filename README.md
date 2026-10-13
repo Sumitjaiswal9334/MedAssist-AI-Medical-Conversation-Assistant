@@ -309,6 +309,9 @@ Open the application in your browser:
 ![Clinical Summary](screenshots/summary-table.png)
 
 *The application transcribes medical conversations and generates structured clinical summaries using AI.*
+
+**▶ [Watch the Full Demo](https://drive.google.com/file/d/1ya8WEfmDLCifLorH-wVY_xJn8MHakghI/view?usp=sharing)**
+
 ---
 
 
