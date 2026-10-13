@@ -1,0 +1,13 @@
+{
+  "name": "ai-medical-conversation-assistant",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Full-stack AI medical conversation assistant with FastAPI, Whisper, Gemini, React, Vite, TailwindCSS, and Axios.",
+  "scripts": {
+    "frontend:dev": "npm --prefix frontend run dev",
+    "frontend:build": "npm --prefix frontend run build",
+    "frontend:lint": "npm --prefix frontend run lint",
+    "backend:dev": "python -m uvicorn backend.app:app --host 0.0.0.0 --port 8000 --reload",
+    "backend:install": "python -m pip install -r backend/requirements.txt"
+  }
+}
